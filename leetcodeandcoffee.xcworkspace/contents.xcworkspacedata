@@ -2,6 +2,10 @@
 <Workspace
    version = "1.0">
    <FileSystemSynchronizedGroup
+      location = "group:Hashing"
+      name = "Hashing">
+   </FileSystemSynchronizedGroup>
+   <FileSystemSynchronizedGroup
       location = "group:Arrays and strings"
       name = "Arrays and strings">
    </FileSystemSynchronizedGroup>
